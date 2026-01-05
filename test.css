@@ -178,7 +178,7 @@ body {
   width: 100%;
   justify-content: space-between;
   height: 100vh;
-  background: url(inthome1.PNG) no-repeat;
+  background: url(inthome1.png) no-repeat;
   background-size: cover;
   background-position: center;
   opacity: 0;
@@ -192,7 +192,7 @@ body {
   width: 100%;
   justify-content: space-between;
   height: 100vh;
-  background: url(inthome2.PNG) no-repeat;
+  background: url(inthome2.png) no-repeat;
   background-size: cover;
   background-position: center;
   opacity: 0;
@@ -206,7 +206,7 @@ body {
   width: 100%;
   justify-content: space-between;
   height: 100vh;
-  background: url(inthome3.PNG) no-repeat;
+  background: url(inthome3.png) no-repeat;
   background-size: cover;
   background-position: center;
   opacity: 0;
@@ -220,7 +220,7 @@ body {
   width: 100%;
   justify-content: space-between;
   height: 100vh;
-  background: url(inthome4.PNG) no-repeat;
+  background: url(inthome4.png) no-repeat;
   background-size: cover;
   background-position: center;
   opacity: 0;
@@ -734,4 +734,5 @@ body {
   opacity: 0;
   animation: fade 3s ease forwards;
 }
+
 
